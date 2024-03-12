@@ -7,6 +7,16 @@ h1 {
     font-size: 36px;
 }
 
+h2 {
+    font-size: 28px;
+    color: rgb(23, 23, 88);
+}
+
+h3 {
+    font-size: 22px;
+    color: rgb(128, 110, 110);
+}
+
 p {
     font-size: 18px;
     color: gray;
