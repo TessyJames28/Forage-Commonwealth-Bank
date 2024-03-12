@@ -1,0 +1,17 @@
+* {
+    font-family: Arial;
+}
+
+h1 {
+    color: blue;
+    font-size: 36px;
+}
+
+p {
+    font-size: 18px;
+    color: gray;
+}
+
+body {
+    background-color: beige;
+}
